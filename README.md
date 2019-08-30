@@ -1,3 +1,4 @@
+
 # Subdivision compensator for Houdini
 
 If you have a low- or mid-poly model made as a retop of highpoly sculpt, you may want to smooth it (either in render-time or for some other reasons).
